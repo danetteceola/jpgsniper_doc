@@ -1,0 +1,9 @@
+{
+    "plugins": ["toggle-chapters","insert-logo","katex"],
+    "pluginsConfig": {
+        "insert-logo": {
+          "url": "https://jpgsniper.xyz/favicon.png",
+          "style": "background: none; max-height: 100px; min-height: 30px"
+        }
+      }
+}

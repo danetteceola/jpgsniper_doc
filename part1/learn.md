@@ -1,8 +1,8 @@
 # 使用说明
 
-This is a test submit
+# Read me
 
-![avatar](../screenshots/bayc8715.png)
+This is a test submit
 
 **MDMD**
 
@@ -10,6 +10,4 @@ Hello world
 
 **Hi**
 
-[**Convert word to markdown**](https://word2md.com/)
-
-![avatar](../screenshots/mayctest.png)
+[**https://word2md.com/**](https://word2md.com/)

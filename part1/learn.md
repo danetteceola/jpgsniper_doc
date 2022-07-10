@@ -6,6 +6,6 @@
 
 ![连接钱包登录](../screenshots/connectwallet.jpg)
 
-选择钱包地址后签名，登录成功。
+**选择钱包地址后签名，登录成功。**
 
 ![签名登录](../screenshots/sign.jpg)

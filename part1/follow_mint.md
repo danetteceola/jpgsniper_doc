@@ -7,7 +7,7 @@ Step1: 在页面的下方私钥列表输入需要跟单mint的钱包私钥，如
 
 Step2: 点下方的验证私钥按钮，确保余额足够支付一次mint的费用。
 
-Step3: 在etherscan找到mint的合约页面，复制一个mint合约下tx的hash，粘贴到批量跟单mint页面。
+Step3: 在etherscan找到需要mint的合约页面，复制一个合约下mint成功的tx的hash，粘贴到批量跟单mint页面。
 
 ![复制hash](../screenshots/hashsample.jpg)
 

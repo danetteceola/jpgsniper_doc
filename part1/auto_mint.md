@@ -1,4 +1,6 @@
-#自动Free mint
+# 自动Free mint
+
+可以选择推荐Free mint或跟单Free mint两种方式
 
 Step1:在用户配置界面，输入用户名和私钥，用户名用于备注，私钥配置需要自动mint的私钥即可
 

@@ -1,6 +1,4 @@
-# **关于**
-
-# **JpgSniper**
+**关于JpgSniper**
 
 **欢迎使用**** JpgSniper!**
 

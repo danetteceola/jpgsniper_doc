@@ -10,7 +10,7 @@ JpgSniper是一个即将推出的 NFT工具聚合平台和社区。包括实用�
 
 App
 
-[**Official website**](https://jpgsniper.xyz)
+[**Official Website**](https://jpgsniper.xyz)
 
 Discord交流社区
 
@@ -18,4 +18,4 @@ Discord交流社区
 
 **使用说明**
 
-[**click here**](https://danetteceola.gitbook.io/jpgsniper/learn)
+[**Click Here**](https://danetteceola.gitbook.io/jpgsniper/learn)

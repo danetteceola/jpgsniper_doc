@@ -1,6 +1,6 @@
 # Summary
 
-* [JpgSniper介绍](README.md)
+* [关于JpgSniper](README.md)
 * [使用说明](part1/learn.md)
     * [批量跟单](part1/follow_mint.md)
 * [FAQ](part2/faq.md)

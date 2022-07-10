@@ -2,7 +2,7 @@
 
 **进入**[**官方网站**](https://jpgsniper.xyz)
 
-**认准唯一官方网站 jpgsniper.xyz**
+认准唯一官方网站**jpgsniper.xyz**
 
 ![连接钱包登录](../screenshots/connectwallet.jpg)
 

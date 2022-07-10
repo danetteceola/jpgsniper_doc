@@ -1,6 +1,6 @@
 # 使用说明
 
-**进入官方网站**[**官方网站**](https://jpgsniper.xyz)
+**进入**[**官方网站**](https://jpgsniper.xyz)
 
 **认准唯一官方网站 jpgsniper.xyz**
 

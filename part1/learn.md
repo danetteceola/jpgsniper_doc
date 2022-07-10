@@ -1,12 +1,11 @@
 # 使用说明
-This is a test submit
 
-**MDMD**
+**进入官方网站**[**官方网站**](https://jpgsniper.xyz)
 
-Hello world
+**认准唯一官方网站 jpgsniper.xyz**
 
-**Hi**
+![连接钱包登录](../screenshots/connectwallet.jpg)
 
-[**https://word2md.com/**](https://word2md.com/)
+选择钱包地址后签名，登录成功。
 
-![avatar](../screenshots/mayctest.png)
+![签名登录](../screenshots/sign.jpg)

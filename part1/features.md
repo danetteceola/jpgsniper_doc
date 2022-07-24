@@ -1,4 +1,7 @@
 # 功能一览
+:white_check_mark: **:已有功能**
+:soon: **:即将推出**
+
 | 链上盯盘 | Mint工具 | 自动打狗 | 钱包整合 |
 | :-----| :----- | :----- | :----- |
 | 实时图狗数据:white_check_mark: | 批量跟单mint :white_check_mark: | 自动free mint打狗 :white_check_mark: | NFT批量归集:white_check_mark: |

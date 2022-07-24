@@ -1,6 +1,7 @@
 # Summary
 
 * [关于JpgSniper](README.md)
+    * [功能一览](part1/features.md)
 * [使用说明](part1/learn.md)
     * [链上盯盘](part1/follow_ethereum.md)
     * [跟单mint](part1/follow_mint.md)

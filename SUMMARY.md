@@ -5,7 +5,7 @@
     * [链上盯盘](part1/follow_ethereum.md)
     * [跟单mint](part1/follow_mint.md)
     * [合约mint](part1/multi_mint.md)
-    * [自动mint](part1/auto_mint.md)  
+    * [自动打狗](part1/auto_mint.md)  
     * [NFT持仓](part1/my_profolio.md)
     * [NFT归集](part1/multi_send.md)     
 * [FAQ](part2/faq.md)

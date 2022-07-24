@@ -17,3 +17,5 @@ JpgSniper是一个即将推出的 NFT工具聚合平台和社区。包括实用�
 ### 使用说明
 
 [**Click Here**](https://danetteceola.gitbook.io/jpgsniper/learn)
+
+[**说明视频**](https://www.youtube.com/watch?v=SJujHBMCeYM)

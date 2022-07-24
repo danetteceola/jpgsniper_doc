@@ -12,4 +12,4 @@
 * [FAQ](part2/faq.md)
     * [使用申请](part2/register.md)
 * [技术分享](part3/techshare.md)
-    * [节点注册](part3/alchemy.md)
+    * [节点注册](part3/nodes.md)

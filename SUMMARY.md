@@ -11,4 +11,3 @@
     * [试用申请](part2/register.md)
 * [技术分享](part3/techshare.md)
     * [节点注册](part3/alchemy.md)
-* [升级会员](part4/price.md)
